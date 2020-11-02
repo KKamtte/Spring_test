@@ -1,0 +1,26 @@
+package net.skhu.dto;
+
+public class employee {
+	int id;
+	String employeeNo;
+	String name;
+	int departmentId;
+	int salary;
+	String sex;
+
+	public int getId() {
+		return id;
+	}
+
+	public void setId(int id) {
+		this.id = id;
+	}
+
+	public String getEmployeeNo() {
+		return employeeNo;
+	}
+
+	public void setEmployeeNo(int employeeNo) {
+		this.id = id;
+	}
+}
