@@ -1,6 +1,10 @@
 package net.skhu.dto;
 
-public class Department {
+import java.io.Serializable;
+
+public class Department implements Serializable{
+	private static final long serialVersionUID = 1L; //버전번호 (옵션임)
+
     int id;
     String departmentName;
 

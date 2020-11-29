@@ -2,4 +2,5 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="net.skhu.mapper.EmployeeMapper"/>
     <fullyQualifiedTypeName name="net.skhu.dto.Category"/>
+    <fullyQualifiedTypeName name="java.io.Serializable"/>
 </qualifiedTypeNameHistroy>
